@@ -1,0 +1,6 @@
+opencv-python
+numpy
+langchain
+langchain-openai
+langchain-community
+chromadb
