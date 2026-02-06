@@ -1,4 +1,4 @@
-# ACT-Tac-Toe 🤖✖️⭕
+# ACT-Tac-Toe 
 
 ## Inspiration
 
